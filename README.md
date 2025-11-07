@@ -1,6 +1,6 @@
 # AI Motivational Quote Agent
 
-A small Python CLI that talks to OpenAI to generate concise motivational guidance and a short preparation checklist targeted at students preparing for FAANG/MAANG-style interviews.
+A small Python CLI that talks to OpenAI to generate concise motivational guidance.
 
 ## What this repository contains
 
